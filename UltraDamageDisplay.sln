@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltraDamageDisplay", "UltraDamageDisplay.csproj", "{B05DB426-3736-4F8F-AD8D-2EC7DF629C4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B05DB426-3736-4F8F-AD8D-2EC7DF629C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05DB426-3736-4F8F-AD8D-2EC7DF629C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05DB426-3736-4F8F-AD8D-2EC7DF629C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05DB426-3736-4F8F-AD8D-2EC7DF629C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
